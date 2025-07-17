@@ -1,6 +1,6 @@
 Melanoma type dectecor
 
-This project uses the Jetson Orin Nano to analyze images and acuratly depict whether or not the image of melanoma entered is one of a benign tumor, or a malignant tumor.
+The melanoma type dectecor is an AI recognition project that uses the Jetson Orin Nano to analyze images and acuratly depict whether or not the image of melanoma entered is one of a benign tumor, or a malignant tumor.
 
 ![test](https://github.com/user-attachments/assets/82492cd9-a843-4fc5-8eb0-4d2c0e41bf47)
 - this image depicts a malignant tumor that was accuatly classified by the software. 
